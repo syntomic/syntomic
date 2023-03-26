@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-# 我是谁
-- 📸 我曾经热衷于数学，但由于一时的迷茫, 导致我的研究生涯还没开始就已结束
-- 🔭 我现在是一名非典型程序员，享受在边做边学过程中遇到的风景，逐渐完善着知识体系
-- 🤔 我仍然希望能有一个机会，能够发挥自己的能力，给这个世界带来一些影响
+# I am
+- 📸 I used to be passionate about mathematics, but due to a moment of confusion, my graduate career ended before it even began.
+- 🔭 I am now a non-traditional programmer, enjoying the scenery along the way of learning by doing, gradually refining my knowledge system.
+- 🤔 I am still searching for an opportunity to leverage my abilities and make a difference.
 
 
-# 我相信
-- 🧱 学好数理化，走遍天下都不怕
-- 📈 不要认为理所当然, 去思考，去尝试
-- 💥 条条大路通罗马
+# I Believe
+- 🧱 Pure Mathematics to Everything
+- 📈 Don't Take Anything for Granted
+- 💥 All Roads Lead to Rome
